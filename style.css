@@ -1,0 +1,48 @@
+body {
+    padding-top: 56px; /* Adjust the height of the navbar */
+    background-color: #3498db;
+  }
+
+.navbar {
+    background-color: #3498db; /* Change the background color */
+  }
+
+.navbar-brand,
+  .navbar-nav .nav-link {
+    color: #ffffff !important; /* Change the text color */
+  }
+
+.navbar-toggler-icon {
+    background-color: #ffffff; /* Change the color of the burger icon */
+  }
+
+.navbar-toggler {
+    border-color: #ffffff; /* Change the border color of the burger icon */
+  }
+
+.navbar-toggler:focus,
+.navbar-toggler:active {
+    outline: none; /* Remove the focus outline */
+  }
+
+h1 {color: blue;
+    display: flex;
+    justify-content: center;
+    border: solid black;
+    background-color: aqua;}
+
+.gif {display: flex; justify-content: space-around;
+    }
+
+.img-div{ justify-content: center;}
+
+.left,.right{text-align: center;
+  margin: 10px;}
+
+
+
+.foot{display: flex;
+    justify-content: center;}
+
+.submit{display: flex;
+  justify-content: space-around;}

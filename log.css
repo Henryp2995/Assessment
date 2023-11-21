@@ -1,0 +1,16 @@
+.main{display: flex;
+flex-direction: column ;
+align-items: center;
+margin-top: 50px;
+}
+
+h1{text-align: center;
+color: orangered;
+border: black solid;
+border-radius: 3px;
+transition-property: color;
+transition-property: background-color;
+}
+
+h1:hover{color: black ;
+background-color: peachpuff;}
